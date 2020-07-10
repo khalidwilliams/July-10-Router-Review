@@ -2,6 +2,8 @@
 
 This repo contains exercises for the React Router v5 lesson.
 
+It also has the code examples from July 10th's review session! 
+
 ## Installation Instructions
 ```bash
 # Clone the repo
